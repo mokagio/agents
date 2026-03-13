@@ -1,0 +1,14 @@
+A good response should:
+- include at least these sections:
+  - Editorial overview
+  - Logic and reasoning
+  - Structure and flow
+  - Typos and grammar
+- optionally include `Targeted rewrite suggestions` when a short, local rewrite is useful
+- identify that the draft relies on unsupported assertions or logical shortcuts, not just style problems
+- flag the overgeneralization in "for everyone"
+- question the claim that chat and video calls solve collaboration
+- identify "This is important because the future of work is changing" as weak, vague, or filler
+- catch "compnies"
+- note that dismissing disagreeing companies as "old fashioned" avoids engaging with counterarguments
+- avoid rewriting the entire draft
