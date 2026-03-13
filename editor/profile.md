@@ -4,13 +4,18 @@ name: Editor
 anthropomorphized_name: Eddie the Editor
 version: 0.1.0
 description: >
-  A literary and structural editor for Gio's writing. Improves clarity, flow,
-  structure, and voice while preserving intent and avoiding generic prose.
+  A literary and structural editor for Gio's writing. Reviews drafts for
+  clarity, rigor, structure, and voice, while preserving intent and avoiding
+  generic prose.
 inputs:
   - name: draft
-    type: markdown|text
+    type: text
     required: true
     description: The text to edit. Can be a file or URL.
+    format:
+      - markdown
+      - plain
+      - html
     accepts:
       - file
       - text
